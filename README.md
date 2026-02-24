@@ -63,15 +63,15 @@ All calculations are based on:
 
 # Repository Structure
 
+
 | File | Description |
 |------|-------------|
-| **CIVE202_Spring2026_Group4_Project2_PythonCode.ipynb** | Main automation python program |
-| **CIVE202_Spring2026_Group4_Project2_AnnotatedCodeDocument.pdf** | Line-by-line code explanation |
-| **CIVE202_Spring2026_Group4_Project2_ScopeOfWork.pdf** | Project objectives, tasks, and deliverables |
-| **CIVE202_Spring2026_Group4_Project2_GanttChart.pdf** | Project schedule and workflow timeline |
-| **CIVE202_Spring2026_Group4_Project2_RealisticScenarioMixtures.pdf** | Four validated test cases |
-| **CIVE202_Spring2026_Group4_Project2_Report.pdf** | Complete technical documentation |
-
+| [CIVE202_Spring2026_Group4_Project2_PythonCode.ipynb](CIVE202_Spring2026_Group4_Project2_PythonCode.ipynb) | Jupyter Notebook containing the full Python automation of the NDOT concrete mix design model, including all calculation functions and formatted output generation. |
+| [CIVE202_Spring2026_Group4_Project2_AnnotatedCodeDocument.pdf](CIVE202_Spring2026_Group4_Project2_AnnotatedCodeDocument.pdf) | Detailed annotated document explaining each section of the Python code and its corresponding Excel formula translation. |
+| [CIVE202_Spring2026_Group4_Project2_ScopeOfWork.pdf](CIVE202_Spring2026_Group4_Project2_ScopeOfWork.pdf) | Formal Scope of Work outlining project goals, objectives, tasks, methodology, and required deliverables for NDOT. |
+| [CIVE202_Spring2026_Group4_Project2_GanttChart.pdf](CIVE202_Spring2026_Group4_Project2_GanttChart.pdf) | Project timeline and task scheduling chart illustrating workflow, dependencies, and progress tracking. |
+| [CIVE202_Spring2026_Group4_Project2_RealisticScenarioMixtures.pdf](CIVE202_Spring2026_Group4_Project2_RealisticScenarioMixtures.pdf) | Documentation of four validated concrete mix scenarios used to test and verify the accuracy of the automated model. |
+| [CIVE202_Spring2026_Group4_Project2_Report.pdf](CIVE202_Spring2026_Group4_Project2_Report.pdf) | Complete technical report including Introduction, Methods, Results & Discussion, scenario validation, and references. |
 
 
 
