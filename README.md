@@ -75,6 +75,42 @@ All calculations are based on:
 
 
 
+
+## User Guide
+
+### How to Run the Program
+
+1. Open the file:
+   [CIVE202_Spring2026_Group4_Project2_PythonCode.ipynb](CIVE202_Spring2026_Group4_Project2_PythonCode.ipynb)
+
+2. Run all cells sequentially from top to bottom.
+
+3. When prompted, enter the required mix design inputs:
+   - Cement weight (lb/yd³)
+   - Supplementary cementitious material weights
+   - Water–cement ratio
+   - Air content (%)
+   - Aggregate percentages
+   - Specific gravity values
+
+4. The program will automatically:
+   - Compute water weight
+   - Convert material weights to volumes
+   - Calculate remaining aggregate volume
+   - Determine final material weights for 1 cubic yard
+
+5. Review the printed mix design summary for final batch weights.
+
+
+### Notes
+
+- All calculations are based on 1 cubic yard (27 cubic feet).
+- Inputs must be entered in consistent engineering units (lb, %, specific gravity).
+- The program assumes deterministic engineering calculations (no statistical analysis).
+
+
+
+
 # Validation & Testing
 
 The model was verified using four realistic design scenarios:
